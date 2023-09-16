@@ -320,7 +320,7 @@ nav ul {
 
 .footer {
     background-color: #fff;
-    border: 1px solid #9E9DA2;
+    border: 1px solid rgba(128, 128, 128, 0.272);
     border-right: none;
     margin: 30px 0;
     width: 100%;
